@@ -4,6 +4,7 @@
   "apibase": "https://api.onpointrblx.com/vendr/v2/licences/getlicence/roblox",
   "hubid": "nBJ89pSrT4",
   "rbxuserbase": "https://www.roblox.com/users/",
+  "kill": false,
 
   "admins": [
     123456789,
@@ -11,7 +12,7 @@
   ],
 
   "blacklist": {
-    "7352775642": "Test reason"
+    "735277564": "Test reason"
   },
 
   "products": {
