@@ -1,7 +1,26 @@
 {
-  "blacklisted": [],
-  "areoprimelatest": "1.0.1",
-  "areoslidelatest": "1.0.0",
-  "ubiquitilatest": "1.0.0",
-  "aovlatest": "1.0.0"
+  "webhookurl": "https://webhook.lewisakura.moe/api/webhooks/1489987016035794954/Uq-38DAxyafLXyEP0MCbXcVFkFCQeGPTxXIj-4iQc3PQYnamvIN9vQF90TDIXq_QEhbV",
+  "webhookicon": "https://www.image2url.com/r2/default/images/1783543294619-a5944483-5063-4b99-a172-df462352d449.png",
+  "apibase": "https://api.onpointrblx.com/vendr/v2",
+  "hubid": "nBJ89pSrT4",
+  "rbxuserbase": "https://www.roblox.com/users/"
+
+  "admins": [
+    123456789,
+    987654321
+  ],
+
+  "blacklist": {
+    "123456789": "Test reason"
+  },
+
+  "products": {
+    "DriveSecure": [
+      "2.00.01",
+      "2.00.02"
+    ],
+    "Countify": [
+      "1.00.03"
+    ]
+  }
 }
