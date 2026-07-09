@@ -9,12 +9,12 @@
   "killmsg": "Maintenance",
 
   "admins": [
-    123456789,
+    7352775642,
     987654321
   ],
 
   "blacklist": {
-    "7352775642": "Test reason1"
+    "735277564": "Test reason1"
   },
 
   "products": {
