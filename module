@@ -5,7 +5,7 @@
   "hubid": "nBJ89pSrT4",
   "rbxuserbase": "https://www.roblox.com/users/",
   "licensingversion": "1",
-  "kill": true,
+  "kill": false,
   "killmsg": "Maintenance",
 
   "admins": [
@@ -14,7 +14,7 @@
   ],
 
   "blacklist": {
-    "735277564": "Test reason"
+    "7352775642": "Test reason1"
   },
 
   "products": {
