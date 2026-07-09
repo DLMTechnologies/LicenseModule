@@ -6,6 +6,7 @@
   "rbxuserbase": "https://www.roblox.com/users/",
   "licensingversion": "1",
   "kill": false,
+  "killmsg": "Maintenance",
 
   "admins": [
     123456789,
