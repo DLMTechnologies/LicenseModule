@@ -4,7 +4,7 @@
   "apibase": "https://api.onpointrblx.com/vendr/v2/licences/getlicence/roblox",
   "hubid": "nBJ89pSrT4",
   "rbxuserbase": "https://www.roblox.com/users/",
-  "licensingversion": "2",
+  "licensingversion": "1",
   "kill": true,
   "killmsg": "Maintenance",
 
