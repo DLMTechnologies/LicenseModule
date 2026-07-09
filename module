@@ -4,6 +4,7 @@
   "apibase": "https://api.onpointrblx.com/vendr/v2/licences/getlicence/roblox",
   "hubid": "nBJ89pSrT4",
   "rbxuserbase": "https://www.roblox.com/users/",
+  "licensingversion": "1",
   "kill": false,
 
   "admins": [
