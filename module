@@ -5,7 +5,7 @@
   "hubid": "nBJ89pSrT4",
   "rbxuserbase": "https://www.roblox.com/users/",
   "licensingversion": "2",
-  "kill": false,
+  "kill": true,
   "killmsg": "Maintenance",
 
   "admins": [
