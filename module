@@ -10,11 +10,11 @@
   "killmsg": "A licensing maintenance is on-going right now. Please try again later.",
 
   "admins": [
-    7352775642
+    735277564
   ],
 
   "blacklist": {
-    "7352775642": "Test reason12"
+    "735277564": "Test reason12"
   },
 
   "products": {
