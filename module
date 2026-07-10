@@ -7,7 +7,7 @@
   "rbxgamebase": "https://www.roblox.com/games/",
   "licensingversion": "1",
   "kill": false,
-  "killmsg": "Maintenance",
+  "killmsg": "A licensing maintenance is on-going right now. Please try again later.",
 
   "admins": [
     7352775642
