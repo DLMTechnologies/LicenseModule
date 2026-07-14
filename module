@@ -7,7 +7,7 @@
   "rbxgamebase": "https://www.roblox.com/games/",
   "rbxgroupbase": "https://www.roblox.com/communities/",
   "licensingversion": "1",
-  "kill": false,
+  "kill": true,
   "killmsg": "A licensing maintenance is on-going right now. Please try again later.",
 
   "admins": [
