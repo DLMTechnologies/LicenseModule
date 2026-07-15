@@ -6,16 +6,16 @@
   "rbxuserbase": "https://www.roblox.com/users/",
   "rbxgamebase": "https://www.roblox.com/games/",
   "rbxgroupbase": "https://www.roblox.com/communities/",
-  "licensingversion": "1",
+  "licensingversion": "2",
   "kill": false,
-  "killmsg": "A licensing maintenance is on-going right now. Please try again later.",
+  "killmsg": "A licensing maintenance is on-going right now. Please try again later.", 
 
   "admins": [
     735277564
   ],
 
   "blacklist": {
-    "7352775642": "Test reason1234567 wait omg 677777777 67676676767676766676767767"
+    "735277564": "Test reason1234567 wait omg 677777777 67676676767676766676767767"
   },
 
   "products": {
