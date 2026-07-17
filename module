@@ -7,15 +7,15 @@
   "rbxgamebase": "https://www.roblox.com/games/",
   "rbxgroupbase": "https://www.roblox.com/communities/",
   "licensingversion": "1",
-  "kill": false,
-  "killmsg": "A licensing maintenance is on-going right now. Please try again later.", 
+  "kill": true,
+  "killmsg": "A licensing maintenance is on-going right now. Please try again later. lol", 
 
   "admins": [
     735277564
   ],
 
   "blacklist": {
-    "735277564": "Test reason1234567 wait omg 677777777 67676676767676766676767767"
+    "735277564": "Reason"
   },
 
   "products": {
