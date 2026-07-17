@@ -6,9 +6,13 @@
   "rbxuserbase": "https://www.roblox.com/users/",
   "rbxgamebase": "https://www.roblox.com/games/",
   "rbxgroupbase": "https://www.roblox.com/communities/",
-  "licensingversion": "2",
   "kill": false,
   "killmsg": "A licensing maintenance is on-going right now.", 
+
+  "licensingversions": [
+    "1",
+    "2"
+  ],
 
   "bypass": {
     "735277564": {
