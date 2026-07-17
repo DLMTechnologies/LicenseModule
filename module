@@ -10,9 +10,12 @@
   "kill": false,
   "killmsg": "A licensing maintenance is on-going right now.", 
 
-  "admins": [
-    735277564
-  ],
+  "bypass": {
+    "735277564": {
+        "log": true,
+        "products": "all"
+    }
+  },
 
   "blacklist": {
     "735277564": "Reason"
