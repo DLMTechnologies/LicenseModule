@@ -6,12 +6,12 @@
   "rbxuserbase": "https://www.roblox.com/users/",
   "rbxgamebase": "https://www.roblox.com/games/",
   "rbxgroupbase": "https://www.roblox.com/communities/",
-  "licensingversion": "1",
+  "licensingversion": "2",
   "kill": false,
   "killmsg": "A licensing maintenance is on-going right now.", 
 
   "admins": [
-    7352775642
+    735277564
   ],
 
   "blacklist": {
