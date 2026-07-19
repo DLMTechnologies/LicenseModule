@@ -16,7 +16,7 @@
 
   "bypass": {
     "7352775642": {
-        "log": false,
+        "log": true,
         "products": "all"
     }
   },
