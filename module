@@ -10,8 +10,7 @@
   "killmsg": "A licensing maintenance is on-going right now.", 
 
   "licensingversions": [
-    "1",
-    "2"
+    "1"
   ],
 
   "bypass": {
@@ -26,15 +25,11 @@
   },
 
   "products": {
-    "DriveSecure": [
-      "2.00.01",
-      "2.00.02"
-    ],
-    "Countify": [
-      "1.00.03"
-    ],
     "Areo One": [
       "1.00.00"
+    ],
+    "DriveSecure": [
+      "2.00.02"
     ]
   }
 }
